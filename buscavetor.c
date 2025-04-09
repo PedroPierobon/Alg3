@@ -42,11 +42,6 @@ struct nodo *busca(struct nodo *no, int chave){
     return busca(no->dir, chave);
 }
 
-// Exclusão
-// Caso 1: Exclusão de folha da BST
-//      busca e exclui substituindo referência para NULL
-// Caso 2; Exclusão de nó no meio da BST com 1 filho
-//      
 
 
 
