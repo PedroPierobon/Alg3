@@ -40,3 +40,4 @@ Tree_delete(T, z) {
         y.esq.pai = y;
     }
 }
+malu é linda
